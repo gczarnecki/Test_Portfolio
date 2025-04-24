@@ -65,4 +65,4 @@ Other Resources:
 To guide me with the project, I used the pre-recorded lectures my professor had posted. I also used AI to generate the random names and addresses. 
 
 Result:
-I was able to achieve my goal of creating a transcript with the help of Microsoft Access. If I could change anything, I would use Access on the desktop of my computer instead of a virtual desktop so that it would be easier to submit the assignment. 
+I was able to achieve my goal of creating a transcript with the help of Microsoft Access. If I could change anything, I would use Access on the desktop of my computer instead of a virtual desktop so that it would be easier to submit the assignment.
