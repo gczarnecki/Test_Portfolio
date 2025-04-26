@@ -36,7 +36,7 @@ I set out to achieve a grade calculator, and I did achieve it. If I were to make
 #### Budget Tracker
  Summary: I set out to create a budget tracker that would include my income, projected and actual costs from different payments and expenditures in my budget.
 
-[insert project 2 screenshot here]
+![Project ScreenShot](Images/Screenshot_2025-04-24_164413.png)
 
 Initial project idea: 
 I was given the task by my Professor at the start of the year to create a budget tracker. The goal of this assignment was to build a tracker for our finances. For this tracker, I would use the projected and actual costs of things to calculate the difference and truly track my budget. Some requirements for this tracker would be to include our income, current savings, savings goals, and any expenses we might have. This assignment had to be done because it would help us currently and in the future track our budgets. 
