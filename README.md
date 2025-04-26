@@ -18,8 +18,7 @@ My Proficient skill set, commitment to being detail-oriented, and passion for le
 
 ![Project ScreenShot](Images/Gabe_Czarnecki_Excel_Assessment_CS105.03_3pm.png)
 
-**<p>Initial project idea:</p>**
-My professor assigned this project to me as one of the last homework assignments in our unit on Excel spreadsheets. The problem we set out to solve was to create a calculator that, if we input all the grades from a class in a semester, the output would give us the Letter and percentage of our final grade. This problem had to be solved because it proved useful for any class we took to calculate the final grade. 
+<p>**Initial project idea:**<br> My professor assigned this project to me as one of the last homework assignments in our unit on Excel spreadsheets. The problem we set out to solve was to create a calculator that, if we input all the grades from a class in a semester, the output would give us the Letter and percentage of our final grade. This problem had to be solved because it proved useful for any class we took to calculate the final grade. </p>
 
 Tools I used: 
 The Tools that I used to get this done were Microsoft Excel and Moodle for all my assignments. 
