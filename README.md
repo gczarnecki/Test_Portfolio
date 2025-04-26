@@ -36,7 +36,7 @@ I set out to achieve a grade calculator, and I did achieve it. If I were to make
 #### Budget Tracker
  Summary: I set out to create a budget tracker that would include my income, projected and actual costs from different payments and expenditures in my budget.
 
-![Project ScreenShot]("Images\Screenshot 2025-04-24 164413.png")
+![Project ScreenShot](Images/Screenshot_2025-04-24_161158.png)
 
 Initial project idea: 
 I was given the task by my Professor at the start of the year to create a budget tracker. The goal of this assignment was to build a tracker for our finances. For this tracker, I would use the projected and actual costs of things to calculate the difference and truly track my budget. Some requirements for this tracker would be to include our income, current savings, savings goals, and any expenses we might have. This assignment had to be done because it would help us currently and in the future track our budgets. 
@@ -56,7 +56,7 @@ I achieved my initial goal of creating a budget tracker. If I could change anyth
 #### Transcripts through Access
 Through Microsoft Access, I created transcripts for 2 students and split them into 50 different classes that included what grade they received in the class. 
 
-[insert project 3 screenshot here]
+![Project ScreenShot]()
 
 Initial project idea: 
 This assignment was my last assignment given to me before my final project. For this homework, we used Microsoft Access through the Apporto virtual desktop. Within Access, we were to create 10 random students, and we would pick two of them to give them classes. One student would have completed 3 years and the other 4, with 5 classes per semester and 2 semesters a year. Then, using the Access function, we would have to create transcripts for both of the students and submit those PDFs. 
