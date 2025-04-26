@@ -56,7 +56,9 @@ I achieved my initial goal of creating a budget tracker. If I could change anyth
 #### Transcripts through Access
 Through Microsoft Access, I created transcripts for 2 students and split them into 50 different classes that included what grade they received in the class. 
 
-![Project ScreenShot]()
+![Project ScreenShot 1](Images/Screenshot_2025-04-24_164413.png)
+![Project ScreenShot 2](Images/Portfolio_Project_3.png)
+![Project ScreenShot 3](Images/Screenshot_2025-04-23_154315.png)
 
 Initial project idea: 
 This assignment was my last assignment given to me before my final project. For this homework, we used Microsoft Access through the Apporto virtual desktop. Within Access, we were to create 10 random students, and we would pick two of them to give them classes. One student would have completed 3 years and the other 4, with 5 classes per semester and 2 semesters a year. Then, using the Access function, we would have to create transcripts for both of the students and submit those PDFs. 
