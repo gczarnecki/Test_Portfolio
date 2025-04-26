@@ -16,7 +16,7 @@ My Proficient skill set, commitment to being detail-oriented, and passion for le
 #### Grade Calculator on Excel
  Summary: I was given the task to create a Grade calculator for two different classes using Excel and its equation shortcuts. 
 
- [insert project 1 screenshot here]
+![Project ScreenShot](\Images\Gabe_Czarnecki_Excel_Assessment_CS105.03_3pm.png)
 
  Initial project idea: 
 My professor assigned this project to me as one of the last homework assignments in our unit on Excel spreadsheets. The problem we set out to solve was to create a calculator that, if we input all the grades from a class in a semester, the output would give us the Letter and percentage of our final grade. This problem had to be solved because it proved useful for any class we took to calculate the final grade. 
