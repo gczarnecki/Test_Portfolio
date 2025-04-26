@@ -1,5 +1,5 @@
 # Gabe Czarnecki
-Contact Info: [fill in]
+Contact Info: [LinkedIn](https://www.linkedin.com/in/gabe-czarnecki-b75ba1354/) or Instrgram [@gabe20gabe](https://www.instagram.com/gabe20gabe/)
 ## About Me 
 Hello! I am an experienced para-professional Police Officer and Data Analyst professional with 1 year of proven expertise in Microsoft 365 and Data gathering. 
 
