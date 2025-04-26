@@ -3,7 +3,7 @@ Contact Info: [fill in]
 ### About Me 
 Hello! I am an experienced para-professional Police Officer and Data Analyst professional with 1 year of proven expertise in Microsoft 365 and Data gathering. 
 
-With skills in Excel Spreadsheet Shortcuts, Personnel management,, processing large amounts of data, programming, and Problem Solving, I am able to efficiently analyze data and achieve accurate documentation. I am adept at using Jdoodle, Excel, and MS Access. 
+With skills in Excel Spreadsheet Shortcuts, Personnel management, processing large amounts of data, programming, and Problem Solving, I am able to efficiently analyze data and achieve accurate documentation. I am adept at using Jdoodle, Excel, and MS Access. 
 
 My Proficient skill set, commitment to being detail-oriented, and passion for learning make me a valuable asset.  In my spare time, I like to Work out and run in the mornings. 
 
@@ -14,11 +14,11 @@ My Proficient skill set, commitment to being detail-oriented, and passion for le
 ### Projects
 
 #### Grade Calculator on Excel
- Summary: I was given the task to create a Grade calculator for two different classes using Excel and its equation shortcuts. 
+ **Summary**: I was given the task to create a Grade calculator for two different classes using Excel and its equation shortcuts. 
 
 ![Project ScreenShot](Images/Gabe_Czarnecki_Excel_Assessment_CS105.03_3pm.png)
 
- Initial project idea: 
+**<p>Initial project idea:</p>**
 My professor assigned this project to me as one of the last homework assignments in our unit on Excel spreadsheets. The problem we set out to solve was to create a calculator that, if we input all the grades from a class in a semester, the output would give us the Letter and percentage of our final grade. This problem had to be solved because it proved useful for any class we took to calculate the final grade. 
 
 Tools I used: 
